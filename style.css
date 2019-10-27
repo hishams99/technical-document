@@ -1,0 +1,52 @@
+.mainsection{
+  font-family: sans-serif;
+  line-height:1.5em;
+  text-align:left;
+  
+
+ 
+ 
+}
+.mainsection header{
+  text-align:center;
+  padding: 15px;
+  color: blue;
+}
+.navbar{
+  font-family: Verdana ;
+  list-style-type: none;
+  border: 5px double;
+  height: 30px;
+  padding:20px;
+  
+}
+.navbar li{
+  display: inline;
+  margin: 100px;
+ 
+}
+
+li a:hover{
+  background-color: azure;
+}
+.title{
+  font-family: Verdana;
+  text-align: center;
+  color: #0040ff;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+body{
+  background-color: #e6e6e6;
+  
+
+  }
+
+
+code{
+  background-color: white;
+}
+
+ .lastsection li {
+    text-align: center;
+   list-style-type: none;
